@@ -1,0 +1,7 @@
+1)
+the availablity per disk is 7tb
+and content to be written of size 600tb
+so no of nodes needed=600/7=86 approx
+2)
+yes once a bl0ck of data is written into the data node in a cluster.it is available for the client
+to be read,only the block which is currently being written after that 100 mb data cant be read.
